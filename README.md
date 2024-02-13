@@ -1,7 +1,4 @@
 # RTO-Management
-
-This code is written by Sparsh Gupta and Tanmay Singh.
-
 It is in html and php.
 
 For this to run you have to install the XAMPP for the phpmyadmin server.
