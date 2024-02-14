@@ -1,3 +1,4 @@
+# RTO-Management
 It is in html and php.
 
 For this to run you have to install the XAMPP for the phpmyadmin server.
@@ -10,9 +11,11 @@ Open the Login Page first.
 
 Admin Login :
 
-username - sparsh
-password - abc123
+username - ahmed
+password - ahmed123
 
-username - tanmay
-password - abc123
+username - chandan
+password - chandan123
 
+username - sridhar
+password - sridhar123
